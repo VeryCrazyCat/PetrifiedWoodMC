@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "minecraft:spruce_slab"
+    },
+    "G": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "pattern": [
+    "DG",
+    "GD"
+  ],
+  "result": {
+    "count": 2,
+    "item": "petrifiedwood:petrified_spruce_slab"
+  }
+}

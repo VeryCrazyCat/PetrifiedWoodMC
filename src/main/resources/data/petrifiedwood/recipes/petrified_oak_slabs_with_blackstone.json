@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "minecraft:oak_slab"
+    },
+    "G": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "pattern": [
+    "DG",
+    "GD"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:petrified_oak_slab"
+  }
+}
