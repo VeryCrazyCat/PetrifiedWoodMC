@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "petrifiedwood:block/petrified_jungle_slab"
+    },
+    "type=double": {
+      "model": "petrifiedwood:block/petrified_jungle_planks"
+    },
+    "type=top": {
+      "model": "petrifiedwood:block/petrified_jungle_spruce_top"
+    }
+  }
+}

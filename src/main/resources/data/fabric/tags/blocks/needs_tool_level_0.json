@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "petrifiedwood:petrified_oak_planks",
+    "petrifiedwood:petrified_birch_planks",
+    "petrifiedwood:petrified_birch_slab",
+    "petrifiedwood:petrified_spruce_planks",
+    "petrifiedwood:petrified_spruce_slab",
+    "petrifiedwood:petrified_jungle_planks",
+    "petrifiedwood:petrified_jungle_slab"
+  ]
+}

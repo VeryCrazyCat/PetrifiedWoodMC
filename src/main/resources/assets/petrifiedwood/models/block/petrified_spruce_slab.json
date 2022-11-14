@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "petrifiedwood:block/petrified_spruce_planks",
+    "top": "petrifiedwood:block/petrified_spruce_planks",
+    "side": "petrifiedwood:block/petrified_spruce_planks"
+  }
+}

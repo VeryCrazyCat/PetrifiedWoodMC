@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "petrifiedwood",
+  "version": "${version}",
+
+  "name": "Petrified Wood!",
+  "description": "Adds Petrified Wood and Slabs to the game. Includes all wood types, and the existing Petrified Oak Slab.",
+  "authors": [
+    "CrazyCat"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/petrifiedwood/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.crazycat.petrifiedwood.PetrifiedWood"
+    ]
+  },
+  "mixins": [
+    "petrifiedwood.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
