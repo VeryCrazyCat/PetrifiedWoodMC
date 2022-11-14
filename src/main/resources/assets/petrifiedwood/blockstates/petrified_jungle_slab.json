@@ -7,7 +7,7 @@
       "model": "petrifiedwood:block/petrified_jungle_planks"
     },
     "type=top": {
-      "model": "petrifiedwood:block/petrified_jungle_spruce_top"
+      "model": "petrifiedwood:block/petrified_jungle_slab_top"
     }
   }
 }

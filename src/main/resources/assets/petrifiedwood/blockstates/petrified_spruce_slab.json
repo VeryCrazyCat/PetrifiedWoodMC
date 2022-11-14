@@ -7,7 +7,7 @@
       "model": "petrifiedwood:block/petrified_spruce_planks"
     },
     "type=top": {
-      "model": "petrifiedwood:block/petrified_birch_spruce_top"
+      "model": "petrifiedwood:block/petrified_spruce_slab_top"
     }
   }
 }

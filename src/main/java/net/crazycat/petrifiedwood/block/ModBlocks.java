@@ -36,6 +36,14 @@ public class ModBlocks {
     public static final Block PETRIFIED_JUNGLE_SLAB = registerBlock("petrified_jungle_slab",
             new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
 
+    public static final Block PETRIFIED_ACACIA_PLANKS = registerBlock("petrified_acacia_planks",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+
+    public static final Block PETRIFIED_ACACIA_SLAB = registerBlock("petrified_acacia_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+
+
+
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
         registerBlockItem(name, block, tab);
         return Registry.register(Registry.BLOCK,new Identifier(PetrifiedWood.MOD_ID, name), block);
