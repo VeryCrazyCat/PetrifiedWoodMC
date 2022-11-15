@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "petrifiedwood:block/petrified_mangrove_slab"
+    },
+    "type=double": {
+      "model": "petrifiedwood:block/petrified_mangrove_planks"
+    },
+    "type=top": {
+      "model": "petrifiedwood:block/petrified_mangrove_slab_top"
+    }
+  }
+}
