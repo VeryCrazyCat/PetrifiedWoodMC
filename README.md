@@ -4,8 +4,9 @@
 
 Coming soon
 
-## License
+---
+### License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
-# PetrifiedWoodMod
-# PetrifiedWoodMod
+Sodium is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the
+[license file](https://github.com/CaffeineMC/sodium-fabric/blob/1.16.x/dev/LICENSE.txt).
+
