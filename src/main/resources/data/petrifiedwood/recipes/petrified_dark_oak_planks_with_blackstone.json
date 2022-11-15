@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "minecraft:spruce_planks"
+    },
+    "G": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "pattern": [
+    "DG",
+    "GD"
+  ],
+  "result": {
+    "count": 2,
+    "item": "petrifiedwood:petrified_dark_oak_planks"
+  }
+}
