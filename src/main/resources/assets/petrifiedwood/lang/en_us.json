@@ -10,6 +10,10 @@
   "block.petrifiedwood.petrified_acacia_slab": "Petrified Acacia Slab",
   "block.petrifiedwood.petrified_dark_oak_planks": "Petrified Dark Oak Planks",
   "block.petrifiedwood.petrified_dark_oak_slab": "Petrified Dark Oak Slab",
-  "block.petrifiedwood.petrified_mangrove_planks": "Petrified Dark Oak Planks",
-  "block.petrifiedwood.petrified_mangrove_slab": "Petrified Dark Oak Slab"
+  "block.petrifiedwood.petrified_mangrove_planks": "Petrified Mangrove Planks",
+  "block.petrifiedwood.petrified_mangrove_slab": "Petrified Mangrove Slab",
+  "block.petrifiedwood.petrified_crimson_planks": "Petrified Crimson Planks",
+  "block.petrifiedwood.petrified_crimson_slab": "Petrified Crimson Slab",
+  "block.petrifiedwood.petrified_warped_planks": "Petrified Warped Planks",
+  "block.petrifiedwood.petrified_warped_slab": "Petrified Warped Slab"
 }

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "petrifiedwood:block/petrified_warped_slab"
+    },
+    "type=double": {
+      "model": "petrifiedwood:block/petrified_warped_planks"
+    },
+    "type=top": {
+      "model": "petrifiedwood:block/petrified_warped_slab_top"
+    }
+  }
+}

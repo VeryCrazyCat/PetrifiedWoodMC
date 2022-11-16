@@ -16,44 +16,55 @@ import net.minecraft.util.registry.Registry;
 public class ModBlocks {
 
     public static final Block PETRIFIED_OAK_PLANKS = registerBlock("petrified_oak_planks",
-            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_BIRCH_PLANKS = registerBlock("petrified_birch_planks",
-            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_BIRCH_SLAB = registerBlock("petrified_birch_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_SPRUCE_PLANKS = registerBlock("petrified_spruce_planks",
-            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_SPRUCE_SLAB = registerBlock("petrified_spruce_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_JUNGLE_PLANKS = registerBlock("petrified_jungle_planks",
-            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_JUNGLE_SLAB = registerBlock("petrified_jungle_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_ACACIA_PLANKS = registerBlock("petrified_acacia_planks",
-            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_ACACIA_SLAB = registerBlock("petrified_acacia_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_DARK_OAK_PLANKS = registerBlock("petrified_dark_oak_planks",
-            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_DARK_OAK_SLAB = registerBlock("petrified_dark_oak_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_MANGROVE_PLANKS = registerBlock("petrified_mangrove_planks",
-            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
     public static final Block PETRIFIED_MANGROVE_SLAB = registerBlock("petrified_mangrove_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW)), ItemGroup.BUILDING_BLOCKS);
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
+    public static final Block PETRIFIED_CRIMSON_PLANKS = registerBlock("petrified_crimson_planks",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
+
+    public static final Block PETRIFIED_CRIMSON_SLAB = registerBlock("petrified_crimson_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
+
+    public static final Block PETRIFIED_WARPED_PLANKS = registerBlock("petrified_warped_planks",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
+
+    public static final Block PETRIFIED_WARPED_SLAB = registerBlock("petrified_warped_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2f).requiresTool().mapColor(MapColor.YELLOW).resistance(30f)), ItemGroup.BUILDING_BLOCKS);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
