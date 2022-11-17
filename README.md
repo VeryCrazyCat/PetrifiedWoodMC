@@ -8,6 +8,7 @@ This simple mod adds **petrified planks and slabs** to every wood type.
 > These blocks have a higher blast resistance and are not flammable in the same way as normal planks and slabs are, which makes them a good building material.
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/118109379/202549813-0525eae6-72e6-4cd8-a4e7-78af51f1c4e2.gif)
+
 An example of the higher blast resistance.
 
 
