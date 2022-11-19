@@ -1,4 +1,7 @@
 # Petrified Wood Mod
+![petrified_wood_thumbnail](https://user-images.githubusercontent.com/118109379/202864129-0d9d3c6e-babd-4c2e-8751-62a6ee8f2fb9.jpg)
+
+
 
 ## Overview
 
