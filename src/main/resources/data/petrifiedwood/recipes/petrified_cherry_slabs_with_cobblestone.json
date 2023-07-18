@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "D": {
-      "item": "minecraft:warped_slab"
+      "item": "minecraft:cherry_slab"
     },
     "G": {
       "item": "minecraft:cobblestone"

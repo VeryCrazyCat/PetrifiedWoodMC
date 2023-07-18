@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "petrifiedwood:petrified_spruce_planks"
+      "item": "petrifiedwood:petrified_jungle_planks"
     }
   },
   "pattern": [
