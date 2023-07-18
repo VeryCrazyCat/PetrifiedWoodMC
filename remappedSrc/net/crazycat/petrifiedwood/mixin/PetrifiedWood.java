@@ -10,6 +10,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class PetrifiedWood {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		net.crazycat.petrifiedwood.PetrifiedWood.LOGGER.info("Example mixin loaded!");
+		net.crazycat.petrifiedwood.PetrifiedWood.LOGGER.info("This line is printed by an example mod mixin!");
 	}
 }

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "petrifiedwood:block/petrified_bamboo_slab"
+    },
+    "type=double": {
+      "model": "petrifiedwood:block/petrified_bamboo_planks"
+    },
+    "type=top": {
+      "model": "petrifiedwood:block/petrified_bamboo_slab_top"
+    }
+  }
+}

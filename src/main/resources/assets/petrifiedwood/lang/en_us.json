@@ -16,5 +16,10 @@
   "block.petrifiedwood.petrified_crimson_planks": "Petrified Crimson Planks",
   "block.petrifiedwood.petrified_crimson_slab": "Petrified Crimson Slab",
   "block.petrifiedwood.petrified_warped_planks": "Petrified Warped Planks",
-  "block.petrifiedwood.petrified_warped_slab": "Petrified Warped Slab"
+  "block.petrifiedwood.petrified_warped_slab": "Petrified Warped Slab",
+  "block.petrifiedwood.petrified_cherry_planks": "Petrified Cherry Planks",
+  "block.petrifiedwood.petrified_cherry_slab": "Petrified Cherry Slab",
+  "block.petrifiedwood.petrified_bamboo_planks": "Petrified Bamboo Planks",
+  "block.petrifiedwood.petrified_bamboo_slab": "Petrified Bamboo Slab",
+  "itemgroup.petrifiedWood": "Petrified Wood"
 }

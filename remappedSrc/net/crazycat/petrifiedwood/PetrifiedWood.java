@@ -1,7 +1,6 @@
 package net.crazycat.petrifiedwood;
 
 import net.crazycat.petrifiedwood.block.ModBlocks;
-import net.crazycat.petrifiedwood.item.ModItemGroup;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -23,7 +22,6 @@ public class  PetrifiedWood implements ModInitializer {
 		// Proceed with mild caution.
 
 		ModBlocks.registerModBlocks();
-		ModItemGroup.registerModItemGroups();
 
 		LOGGER.info("Hello Fabric world!");
 	}
