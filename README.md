@@ -28,7 +28,8 @@ Petrified Slabs (with any petrified planks):
 
 An example of the higher blast resistance.
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/118109379/202549813-0525eae6-72e6-4cd8-a4e7-78af51f1c4e2.gif)
+![petrified_wood_explosion](https://github.com/VeryCrazyCat/PetrifiedWoodMC/assets/118109379/dbb13a3b-4a72-498e-991f-765fb0854fed)
+
 
 
 Modrinth: https://modrinth.com/mod/petrified-wood
