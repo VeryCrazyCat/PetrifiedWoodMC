@@ -12,18 +12,12 @@ This simple mod adds **petrified planks and slabs** to every wood type.
 
 Recipes:
 
-Petrified Wood Planks (with blackstone or cobblestone, and any planks):
+Petrified Wood (with **blackstone or cobblestone**, and any **planks or slabs**):
 
-![petrified_planks](https://user-images.githubusercontent.com/118109379/202862176-99a1019a-89b0-40c6-956a-3bd3b24aea9e.png)
+![Screenshot 2023-07-18 161003](https://github.com/VeryCrazyCat/PetrifiedWoodMC/assets/118109379/6237a283-8ddf-4ea0-a4c2-aa51f4ef51e9)
 
-(Result: Petrified Oak Planks)
+(Result: Petrified Cherry Planks)
 
-
-Petrified Slabs (with any petrified planks):
-
-![petrified_slabs](https://user-images.githubusercontent.com/118109379/202862217-3c8be1e2-6183-4a69-9fed-520a1bfdf454.png)
-
-(Result: Petrified Oak Slab)
 
 
 An example of the higher blast resistance.
